@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "PokeScript",
   "scripts": {
-    "start": "babel-node test.js 'Charizard'"
+    "start": "babel-node test.js"
   },
   "dependencies": {
     "babel-cli": "^6.7.5",

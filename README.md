@@ -5,5 +5,5 @@ PokeScript
 
 Run
 ```
-npm start
+npm start 'Charizard'
 ```
